@@ -1,0 +1,6 @@
+{
+  "name": "SwarmDeck",
+  "description": "Ứng dụng trình chiếu tương tác với hiệu ứng dựng khung và con trỏ Swarm cho file PDF và PPTX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
